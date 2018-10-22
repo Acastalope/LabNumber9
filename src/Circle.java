@@ -15,7 +15,7 @@ public class Circle {
 		return 2 * radius * Math.PI;
 	}
 	public String getFormattedCircumference(double radius) {
-		return formatNumber(getCircumfeence(radius));
+		return formatNumber(getCircumference(radius));
 	}
 	public double getArea(double radius) {
 
